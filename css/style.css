@@ -314,14 +314,14 @@ input::-moz-focus-inner {
 			background-color: #5052b5
 		}
 		
-		.wrapper.fullscreen {
+		/*.wrapper.fullscreen {
 			min-height: calc(87vh - 2.5em)
-		}
+		}*/
 			@media screen and (max-width: 736px) {
 
-				.wrapper.fullscreen {
+				/*.wrapper.fullscreen {
 					min-height: calc(40vh - 5.5em)
-				}
+				}*/
 			}
 
 /* Wrapper */
